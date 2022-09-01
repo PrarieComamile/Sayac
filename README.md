@@ -1,2 +1,2 @@
 # Sayac
-prariecomamile.github.io/Sayac
+https://prariecomamile.github.io/Sayac
