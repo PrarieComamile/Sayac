@@ -1,0 +1,44 @@
+body
+{
+        margin: 0 auto;
+        width:960px;
+        background:rgb(52, 37, 135);
+}
+
+#sayacbtn{
+    background-color: green;
+    height: 25em;
+    width: 25em;
+    border-radius: 30em;
+    margin-top: 300%;
+    margin-left: 200%;
+    margin-right:200%;
+    border: 3px solid black;
+    
+}
+
+#resetbtn{
+    background-color: green;
+    font-weight: bold;
+    width: 25em;
+    height: 5em;
+    border-radius: 25em;
+    border: 3px solid black;
+    margin-top: 17%;
+    margin-top: 600%;
+    margin-left: 200%;
+    margin-right: 200%;
+}
+
+#resetbtn:active{
+    background-color: rgb(0, 104, 0);
+    color: black;
+}
+
+#number{
+    color: black;
+    font-size: 60px;
+    margin-top:-12%;
+    margin-left: 40%;
+    margin-right:40%;
+}
