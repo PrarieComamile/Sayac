@@ -1,5 +1,4 @@
-body
-{
+body{
         margin: 0 auto;
         width:960px;
         background:rgb(52, 37, 135);
@@ -7,6 +6,7 @@ body
 
 #sayacbtn{
     background-color: green;
+    position: relative;
     height: 25em;
     width: 25em;
     border-radius: 30em;
@@ -14,6 +14,7 @@ body
     margin-left: 200%;
     margin-right:200%;
     border: 3px solid black;
+    text-align: center;
     
 }
 
@@ -37,8 +38,9 @@ body
 
 #number{
     color: black;
+    position: absolute;
     font-size: 60px;
-    margin-top:-12%;
-    margin-left: 40%;
-    margin-right:40%;
+    bottom: 190px;
+    right: 195px;
+    text-align: center;
 }
